@@ -1,0 +1,17 @@
+[
+  {
+    "color": "#5a67d8",
+    "name": "Home Office",
+    "wifi": [
+      "2E09_5G",
+      "2E09_5G"
+    ]
+  },
+  {
+    "name": "College",
+    "wifi": [
+      "2E09"
+    ],
+    "color": "#38a169"
+  }
+]
