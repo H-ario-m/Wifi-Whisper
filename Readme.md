@@ -9,6 +9,9 @@ Wi-Fi Whisperer is a productivity tracker that maps and remembers all Wi-Fi netw
 - Allows users to configure multiple Wi-Fi networks for each location.
 
 ## Screenshots
+![Screenshot 2025-05-23 173638](https://github.com/user-attachments/assets/baa493d2-7ea8-4168-9c91-1e85a445e400)
+![Screenshot 2025-05-23 173725](https://github.com/user-attachments/assets/5d411f4c-1993-4945-a3f7-abe85fb4d43f)
+![Screenshot 2025-05-23 173739](https://github.com/user-attachments/assets/f6416b19-fd7d-40cd-887e-7796558b2f70)
 
 
 ## Getting Started
